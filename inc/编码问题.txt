@@ -1,0 +1,13 @@
+下面文件是整页的
+info_admin.asp
+server.asp
+might.asp
+
+
+
+其余文件都是被包含的
+
+
+下面文件为了方便，不能加密
+config.asp
+ado.asp

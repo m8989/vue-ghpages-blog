@@ -1,0 +1,6 @@
+<%#@~^QgMAAA==@#@&B检查邮件合法性@#@&k6P`ADMmHko~',JEb,YtU@#@&d/D.\lbVtW[+xEN:Ck^EdE2\)&S组件@#@&7kY.Hmr^?nM\DP{PrEP@#@&7/DD]n1kwbnxD/1mhnP{PkY.1ChP7dE收件人姓名@#@&i/O."+mr2b+UYk~{PdDDA:lbVi7dE收件人+hlbV@#@&i/YMj+	N+MxdYM?x[+.7id~div网站/sY2认可的nslks，代替发件人3slrV@#@&i/OMsMW:,',dYM53:mks7idB发件人AhlbV@#@&7dYMsMWh1ChPxPkODI1Chddv发件人姓名@#@&ddYMj!4%mDP',/D.?!4%+1Y77E主题@#@&idYMH+kdCoP{PdY.]mrwbnxD/HCs+[E你好：~rP'P"n$EnkYcsWM:vE1m:nJ*P'~74ZMJ0,[P78/Dd0@#@&7/O.t+d/mL+,'~dDDHndklL+,',J~,这封邮件来自PShhc*8{v+R^x,网站n8邮件系统,JPL~\(ZDdW~[,\(Z.SW@#@&ddYM\+k/CLP'~dDD\+kdmon,[,J请不要回复，如果要回复邮件，请直接发送给PShS *8GvcmU网站的管理员E,[P78ZMS0,'~\(ZMSW@#@&7kY.Hd/mon~{P/O.t+d/mLP',J OO O RO ORO ORR OO RO OO RR邮件正文O O ORORR ORO RO ORR OORR ORO ~rP',\(ZDd0,'P74/Dd0@#@&i/YM\+k/lTn~',/DD\+ddmonPL~/DD\dTP[~-(Z.S6~LP-(ZMS0@#@&@#@&db0~/DDo.K:P@!@*PrJPD4nx@#@&iddY.jx[+M~',/O.wDWh@#@&dnx9~b0@#@&Es8AAA==^#~@%>
+<!--#INCLUDE FILE="inc_mail.asp" -->
+
+<%#@~^IAEAAA==~b0~ADM{Hko,@!@*,JEPDtnU,@#@&i7I/wKUd+cMkO+cE系统发送邮件时出现如下错误=@!$I@*E[AD.mt/ob~@#@&7dSGMNxSWMN[r-	wx'x~P系统发送邮件时出现如下错误=-UEL2DMmHko[rwU-	/DD\lrsU+.\.'r[dOMHlrsU+.\.LJw	/DD?x9nD{J'/DDjn	N+M@#@&i+Vkn~@#@&dihGD[xSW.NLd+	N6FqWD[@#@&d7B"nkwG	/RMkDn`r@!$I@*@!$]@*电子邮件已寄出！@!A"@*J*P@#@&7nx9Pb0~6UcAAA==^#~@%>
+
+<%#@~^BgAAAA==n	N~b0JgIAAA==^#~@%>

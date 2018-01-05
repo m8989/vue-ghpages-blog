@@ -1,0 +1,104 @@
+body {
+	FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif", "宋体"; 
+	FONT-SIZE: 10pt;
+	line-height:150%;
+	color: #333333;
+	text-decoration: none;
+    margin-top:0px; margin-bottom: 0px;
+	background-color:#FFFFFF;
+	}
+.body_table {
+	FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif", "宋体"; 
+	FONT-SIZE: 10pt;
+    background-color:#ffffff;
+	}
+td{
+	font-size:10pt;
+	line-height:150%;
+	color: #333333;
+	text-decoration: none;
+     }
+p{font-size:10pt
+	margin-top:0; margin-bottom: 0;
+	}
+li{font-size:10pt;}
+input.smallInput1{font-size:8pt}
+input.smallInput{font-size:10pt}
+textarea.smallarea{font-size:10pt;background-color:white;color:rgb(0,0,128)}
+input.buttonface {font-size:8pt}
+select{font-size:10pt}
+.lanmu~~{  font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10pt; color: #FFFFFF; background-image: url(../images/index/dian-bg.html); letter-spacing: 4.5pt}
+.wenzi~~{
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 10pt;
+	color: #000000;
+	text-decoration: none;
+	line-height: 20px;
+}
+.layer {						/*将此样式用于表格，在表格中放置绝对定们的DIV代码，可实际相对单元格的绝对定位*/
+        position: relative; clip: rect( ) 
+}
+.CSS-Text1 {
+	font-size:10pt; 							/*文字大小*/
+	filter:shadow(color=#808080,direction=135);	/*投射阴景效果，color阴影色,direction 直径*/
+	width:100%;					/*总宽度*/
+	line-height: 180%; 								
+	color:#563700 					/*文字颜色*/							
+}
+.LBbg-img {
+	background-attachment: fixed;  			/*背景不滚动*/
+	background-repeat: no-repeat;			/*背景不重复*/
+	background-position: left bottom;		/*背景左底部对齐*/
+	/*background-image: url(images/10.jpg);	*/		/*背景图URL*/
+}
+.Big-Text {
+	font-family: "隶书";
+	font-size: 20px;
+	line-height: 26px;
+	background-image: url(../images/1/c26.html);
+	color: #FF0000;
+	text-align: center;
+	overflow: visible;
+	background-position: center center;
+	height: 30px;
+	width: 30px;
+}
+h3 {
+	font-family: "隶书";
+	font-size: 22px;
+	color: #AD75BD;
+	line-height: 100%;
+	margin-top: 0;
+	margin-bottom: 0
+}
+A {
+	COLOR: #333333;  FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red;text-desoration: underline
+}
+A:visited {
+}
+A.big {
+	COLOR: #FFFFFF;
+	FONT-WEIGHT: bold;
+	font-family: "经典粗宋繁", "经典宋体繁", "宋体";
+	font-size: 24px;
+
+}
+A.big:hover {
+	COLOR: #0000FF;text-desoration: underline
+}
+img {
+	background-position: right;
+}
+.hidden {
+	display: none;
+}
+
+/************************************/
+.bgcx {
+	font-size: 10pt;
+	color: #FFFFFF;
+	font-weight: bold;
+}/*背景固定在下面的样式*/

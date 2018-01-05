@@ -1,0 +1,9 @@
+<!--# in clude file="ado.asp" -->
+<!-- 测试时用 -->
+<%#@~^TQAAAA==@#@&kW,///bW	cJ;tnm0+[E*@!@*z2w^kmmOrW	`rK4kdmhld/[{:(PE*[J10FvEP,O4+U,@#@&7RUAAA==^#~@%> 
+<script language="JavaScript1.1">
+alert('您还未登陆，或是没有足够的权限，或者是太长时间没有操作.')
+parent.document.location="../admin/login.asp"
+</script> 
+<%#@~^DgAAAA==@#@&+U9Pb0@#@&VAIAAA==^#~@%>
+<%#@~^xQUAAA==@#@&BO:aHW9E^nqG'E最新新闻J@#@&vO:w;hN{Jb9[mqDJ@#@&v1G/4+^3z[:bxxq@#@&w;8^k^P6;	mObW	PZ4+1VHbo4YvYnhaHW9;VqfBOn:aZsNbP~v检查权限@#@&~PEr0,K](t`/ndkkGxvED+ha{`/+M1mh+r#b'rl[hbxJ,)1GP1K/4+13zNhkUx8P~Y4nx,@#@&~,k0~c:I(Hvd/dbW	`JD+s2{`/nDglhnr##{El9:k	E~r"P:I(Hcd/dkKU`rM;nkY{idDHlsnr#b{JmN:bxrbPz19PgW/4m3z[:bx'8~~Y4+	@#@&dv其中HKZ4+1Vb9:rU变量在1WxWrT文件中设定。F为不检查用户名为CNsr	（全小写）的权限@#@&iZ4+m0HbLtD'OD!+@#@&,P+^d+@#@&P,~r0,K"q\`dnk/rW	cJD+h2|j/n.glh+rb*@!@*rJ,PY4+	~B是检查Vj3?:还是检查jj3"~@#@&~P,dd:nhw|Hbo4YmPm4s+{Ejk+.E@#@&d7O:2{tz|M.KEa'K"qtc//dkKxcED+:amjk+DgCh+r#*@#@&d7~,Pr0,s+	`P]&H`dnk/rW	crYnsw|HX|MMGEaJbP*#@!@*ZPY4nx@#@&di7~Y:a{\Xm!MW;w{PI&Hcd//rG	`EYha{\H{VDW!wrb#,Pv如果组名不为空，则按组分配权限@#@&d7~,P+	[Pb0@#@&7nVk+@#@&7dPnswmHbLtD{PC(V+xEVEn/DE@#@&7iY:w|HHmMMW;w{K](t`/d/bWxvE!E/D{i/n.glh+rb#@#@&77,PPrW,VnxvP"q\v///bW	cJVEn/D{\z|MDK;wr#P*b@!@*ZPDtnx@#@&id7PDn:a{\z|MDG;a'PI&\v/nk/bWxvJV;+kYmHH{!.KEwrb#,PB如果组名不为空，则按组分配权限@#@&7d,P,+UN~r6@#@&dUN,kW@#@&@#@&d5^Hro4O{JjASAZK,JLO+sw/:9[E~wIrt~JLK+s2mHbo4YmKC8^+'J|\kTtO~qC2]3,jd+MHm:n{Br[Y:amHH{!DKE2'rBPzHf,HW9;s+gls+xBE'D+hwtGN!Vn(G[JvE@#@&d+D~M/\bo4Y'U+M-+MR/DlOn}4L^YvJbG69AcDmGD[dYE#@#@&DkHrL4YR/;M/GD:za+~{P2@#@&M/tro4Y ra+U~k;Vtro4Y~1GUx@#@&@#@&~PrW,xGY,./tkL4DRA6o,lUN,UKY~M/tko4Yc3rwPOtx@#@&iPPi/tm3trLtD'M/\kL4D`O+s2ZsNb~E读取对应字段的值@#@&77zb)b{.kHrTtD`Y:a/:9#@#@&,Pnsk+@#@&7d;t+1V\kTtD'olsd@#@&P,nx9PrW@#@&P~v"+dwKUk+ qDbY+,`;4+13\kTtOb,PB测试用@#@&P,D/trLtDR1VG/nc*@#@&P,d+DP.dtko4O{1GY4r	o@#@&PxN,k6@#@&x[P6EU^DkW	@#@&Z5cBAA==^#~@%>

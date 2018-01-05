@@ -1,0 +1,10 @@
+.mtDropdownMenu {LEFT: -1000px; OVERFLOW: hidden; POSITION: absolute; TOP: -1000px}
+.mtDropdownMenu .content {POSITION: absolute}
+.mtDropdownMenu .items {BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 1px solid; Z-INDEX: 2; LEFT: 0px; BORDER-LEFT: #555555 1px solid; BORDER-BOTTOM: #555555 1px solid; POSITION: relative; TOP: 0px}
+.top .items {BORDER-TOP: medium none}
+.mtDropdownMenu .item {BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 9pt; BORDER-LEFT: medium none; CURSOR: hand; COLOR: #000000; BORDER-BOTTOM: medium none; TEXT-DECORATION: none}
+.mtDropdownMenu .background {Z-INDEX: 1; FILTER: alpha(opacity=80); LEFT: 0px; POSITION: absolute; TOP: 0px; moz-opacity: .8}
+.mtDropdownMenu .shadowRight {Z-INDEX: 3; FILTER: alpha(opacity=40); WIDTH: 2px; POSITION: absolute; TOP: 3px; moz-opacity: .4}
+.mtDropdownMenu .shadowBottom {Z-INDEX: 1; FILTER: alpha(opacity=40); LEFT: 3px; POSITION: absolute; HEIGHT: 2px; moz-opacity: .4}
+.mtDropdownMenu .hover {background-color: #C1CBD5;}
+.mtDropdownMenu .item IMG {	MARGIN-LEFT: 6px}
